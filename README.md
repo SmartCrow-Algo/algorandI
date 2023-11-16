@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Setup the .env file with reference to .env sample. Use the API key from rentcast.io
+Make sure to only property data from [RentcastPropertRecords](https://developers.rentcast.io/reference/property-records-random) to create new contracts. 
+
 First, run the development server:
 
 ```bash
